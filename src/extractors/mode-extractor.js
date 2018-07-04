@@ -14,3 +14,5 @@ class TravelModeExtractor extends CorpusExtractor {
     });
   }
 }
+
+module.exports = TravelModeExtractor;
