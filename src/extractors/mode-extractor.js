@@ -1,10 +1,10 @@
 const { CorpusExtractor, FileCorpus } = require('botfuel-dialog');
 
-class DimensionNameExtractor extends CorpusExtractor {
+class TravelModeExtractor extends CorpusExtractor {
   constructor() {
     super({
-      dimension: 'dimension_name',
-      corpus: new FileCorpus(`${__dirname}/../corpora/dimension_name.txt`),
+      dimension: 'travel-mode',
+      corpus: new FileCorpus(`${__dirname}/../corpora/travel-mode.txt`),
       options: {
         caseSensitive: false,
         keepQuotes: false,
