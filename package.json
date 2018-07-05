@@ -17,7 +17,8 @@
   },
   "dependencies": {
     "botfuel-dialog": "^8.0.4",
-    "botfuel-smalltalks": "git+https://github.com/keyrusrocks/botfuel-smalltalks.git"
+    "botfuel-smalltalks": "git+https://github.com/keyrusrocks/botfuel-smalltalks.git",
+    "coffeescript": "^2.3.1"
   },
   "devDependencies": {
     "eslint": "3.19.0",
