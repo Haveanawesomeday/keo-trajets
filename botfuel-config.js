@@ -7,6 +7,6 @@ module.exports = {
     name: 'memory',
   },
   modules: [
-    'botfuel-smalltalks'
+    'botfuel-smalltalks',
   ],
-};  
+};
