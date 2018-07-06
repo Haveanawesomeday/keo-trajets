@@ -1,3 +1,3 @@
-pied, à pied, marcher, en marchant, piéton
-bus, en bus, y aller en bus
+à pied, marcher, en marchant, piéton
+en bus, bus, y aller en bus
 sans correspondance, le moins de correspondances, sans changement, le moins de changement

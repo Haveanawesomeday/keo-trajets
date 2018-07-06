@@ -2,7 +2,7 @@ module.exports = {
   adapter: {
     name: 'botfuel',
   },
-  locale: 'en',
+  locale: 'fr',
   brain: {
     name: 'memory',
   },
